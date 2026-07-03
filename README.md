@@ -34,5 +34,5 @@ https://github.com/RinkiChauhan00/email-password-validator
 ## 👩‍💻 Author
 
 **Rinki Chauhan**
-
-⭐ If you found this project helpful, don't forget to **star** this repository!
+GitHub: https://github.com/RinkiChauhan00
+LinkedIn: https://www.linkedin.com/in/rinki-chauhan14/
